@@ -1,3 +1,6 @@
 while [i<100]:
   print "My god, Savi is very cool"
-cats.mp3
+cats.mp
+llamas.mp3
+gnus.mp3
+cheetahs.mps3
