@@ -1,5 +1,3 @@
+while [i<100]:
+  print "My god, Savi is very cool"
 cats.mp3
-dogs.mp3
-horses.mp3
-doggies.mp3
-kittiecats.mp3
